@@ -35,5 +35,6 @@ Cardano native token and fiat bridge for Funrayzr.com using blockchain to reduce
 ### August 2022 - KPI - 50% reduction in fiat-based processing cost via consolidated native token
 9. Migrate initial consumer purchases to Funrayzr native token and offer ability for consumer to pay in Ada vs. fiat
 
-
+### September 2022 - KPI - Delivery of Open Source native token to fiat bridge code
+10. Publish open source version of Funrayzr native token to fiat conversion bridge for community
 
